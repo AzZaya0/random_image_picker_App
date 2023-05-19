@@ -1,4 +1,4 @@
-# dice_roller_app
+# random_Image_picker
 
 A new Flutter project.
 
